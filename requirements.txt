@@ -1,0 +1,4 @@
+readability-lxml==0.6.2
+requests==2.13.0
+feedparser==5.2.1
+python_dateutil==2.5.3
